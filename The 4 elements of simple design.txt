@@ -1,0 +1,5 @@
+The 4 elements of SIMPLE DESIGN:
+1. passes tests
+2. minimize duplication
+3. maximizes clarity
+4. has fewer elements
