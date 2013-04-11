@@ -17,4 +17,9 @@ public class Cell {
         // TODO Auto-generated method stub
         return lives;
     }
+
+    public void setLife(boolean b) {
+        // TODO Auto-generated method stub
+        lives = b;
+    }
 }
